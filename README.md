@@ -40,4 +40,4 @@ At end, a plot is made between iteration and accuracy of the best sample that sh
 
 Plot between Best Accuracy and Iterations
 
-![Line Graph](./output.jpg)
+![Line Graph](./output.png)
