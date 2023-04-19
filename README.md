@@ -34,8 +34,10 @@ E.g
 | 30 | 0.940000 | [rbf] | 0.643 | 0.388 |
 | 40 | 0.950000 | [rbf] | 0.632 | 0.229 |
 
-Plot between Best Accuracy and Iterations
 
-![Line Graph](./output.png)
 
 At end, a plot is made between iteration and accuracy of the best sample that shows convergence is reached after a certain point.
+
+Plot between Best Accuracy and Iterations
+
+![Line Graph](./output.jpg)
