@@ -24,7 +24,23 @@ Model is trained on these parameters and then accuracy is measured for 1000 iter
 
 The best accuracy and best parameters for the sample is recorded after every 10th iteration. The best overall sample list contains these record for the sample with best accuracy overall.
 
-E.g
+Record of best Accuracy for each sample:
+| Sample # | Best Accuracy | Best Kernel | Best C | Best Epsilon |
+| --- | --- | --- | --- | --- |
+| 0 | 0.953333 | [rbf] | 0.718 | 0.194 |
+| 1 | 0.963333 | [rbf]	0.886	0.392 |
+| 2 | 0.950000 | [linear] | 0.383 | 0.276 | 
+| 3 | 0.940000 | [linear] | 0.773 | 0.629 |
+| 4 | 0.963333 | [linear] | 0.711 | 0.333 |
+| 5 | 0.943333 | [rbf] | 0.161 | 0.412 |
+| 6 | 0.946667 | [rbf] | 0.771 | 0.149 |
+| 7 | 0.946667 | [linear] | 0.588 | 0.157 |
+| 8 | 0.956667 | [linear] | 0.733 | 0.632 |
+| 9 | 0.953333 | [rbf] | 0.221 | 0.518 |
+
+
+Top 5 records of Sample with best Accuracy
+
 
 | iteration | bestAccuracy | bestKernel | bestC | bestEpsilon |
 | --- | --- | --- | --- | --- |
