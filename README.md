@@ -26,12 +26,13 @@ The best accuracy and best parameters for the sample is recorded after every 10t
 
 E.g
 
-iteration | bestAccuracy | bestKernel | bestC | bestEpsilon
-0 | 0 | 0.926667 | [linear] | 0.199 | 0.846
-1 | 10 | 0.926667 | [linear] | 0.199 | 0.846
-2 | 20 | 0.926667 | [linear] | 0.199 | 0.846
-3 | 30 | 0.940000 | [rbf] | 0.643 | 0.388
-4 | 40 | 0.950000 | [rbf] | 0.632 | 0.229
+| iteration | bestAccuracy | bestKernel | bestC | bestEpsilon |
+| --- | --- | --- | --- | --- |
+| 0 | 0 | 0.926667 | [linear] | 0.199 | 0.846 |
+| 1 | 10 | 0.926667 | [linear] | 0.199 | 0.846 |
+| 2 | 20 | 0.926667 | [linear] | 0.199 | 0.846 |
+| 3 | 30 | 0.940000 | [rbf] | 0.643 | 0.388 |
+| 4 | 40 | 0.950000 | [rbf] | 0.632 | 0.229 |
 
 ![Line Graph](./output.png)
 
