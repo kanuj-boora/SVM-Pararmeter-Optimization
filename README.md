@@ -28,7 +28,7 @@ Record of best Accuracy for each sample:
 | Sample # | Best Accuracy | Best Kernel | Best C | Best Epsilon |
 | --- | --- | --- | --- | --- |
 | 0 | 0.953333 | [rbf] | 0.718 | 0.194 |
-| 1 | 0.963333 | [rbf]	0.886	0.392 |
+| 1 | 0.963333 | [rbf] | 0.886 | 0.392 |
 | 2 | 0.950000 | [linear] | 0.383 | 0.276 | 
 | 3 | 0.940000 | [linear] | 0.773 | 0.629 |
 | 4 | 0.963333 | [linear] | 0.711 | 0.333 |
